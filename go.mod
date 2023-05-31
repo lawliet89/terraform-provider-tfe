@@ -11,8 +11,8 @@ require (
 	github.com/hashicorp/go-hclog v1.4.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
-	github.com/hashicorp/go-slug v0.10.1
-	github.com/hashicorp/go-tfe v1.19.0
+	github.com/hashicorp/go-slug v0.11.1
+	github.com/hashicorp/go-tfe v1.26.0
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl v0.0.0-20180404174102-ef8a98b0bbce
 	github.com/hashicorp/hcl/v2 v2.16.1 // indirect
@@ -59,7 +59,7 @@ require (
 	google.golang.org/grpc v1.51.0 // indirect
 )
 
-require github.com/stretchr/testify v1.8.2
+require github.com/stretchr/testify v1.8.3
 
 require (
 	github.com/hashicorp/hc-install v0.5.0 // indirect
